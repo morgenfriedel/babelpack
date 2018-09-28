@@ -4,7 +4,7 @@ Babelpack is a simple starting place for developers who value modular code, uncl
 
 To get started, simply run `npm install`. Thanks to Babel, you'll be able to use all of the wonderful features of ES6 JavaScript like this very handy `import` feature:
 
-````
+```
 import jQuery from 'jquery'
 import { accounting } from 'accounting'
 import './lib/jquery.dataTables.min.js'
